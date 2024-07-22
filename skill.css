@@ -1,0 +1,53 @@
+/* styles.css */
+.background-image-example {
+    width: 100%;
+    height: 400px; 
+    background-image: url('../programming-background-collage (1).jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    background-color: rgb(24, 127, 218);
+    
+}
+
+.skills {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: whitesmoke;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.skill {
+    margin-bottom: 10px;
+}
+
+.skill h3 {
+    margin: 5px 0;
+    font-size: 18px;
+}
+
+.skill-bar {
+    width: 100%;
+    background-color: #ddd;
+    height: 20px;
+    border-radius: 8px;
+}
+
+.skill-level {
+    height: 100%;
+    background-color: green;
+    border-radius: 8px;
+}
+
+.skill span {
+    display: block;
+    margin-top: 5px;
+    font-size: 14px;
+    color: #777;
+}
+
+body
+{
+    margin-top: 150px;
+}
